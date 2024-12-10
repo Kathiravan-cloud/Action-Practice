@@ -2,9 +2,7 @@ name: custom workflow
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/intro-custom-workflow.yml'
+
 jobs:
   execute:
     runs-on: ubuntu-latest
