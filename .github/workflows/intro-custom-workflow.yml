@@ -37,3 +37,4 @@ jobs:
       # This step prints an output (time) from the previous step's action.
       - name: Echo Greeting's Time
         run: echo 'The time was $.'
+      #sample
