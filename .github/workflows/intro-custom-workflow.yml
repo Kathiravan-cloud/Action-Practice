@@ -23,6 +23,7 @@ jobs:
           ls
 
       - run: echo "🍏 This job's status is $."
+      - run: echo "Hi Kathir."
 
       - name: Adding Markdown
         run: echo "### Hello world! :rocket:" >> "$GITHUB_STEP_SUMMARY"
