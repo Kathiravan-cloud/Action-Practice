@@ -34,3 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+        #Testing the name of the pipeline for bot the manuall run and the push run contains the same name 
