@@ -22,7 +22,7 @@ jobs:
 
       - name: List Files In Directory
         run: |
-          ls $
+          ls
 
       - run: echo "🍏 This job's status is $."
 
